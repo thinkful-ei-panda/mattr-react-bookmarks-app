@@ -1,0 +1,17 @@
+.addbookmark__form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    /* align-items: center;
+    justify-content: space-evenly; */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.addbookmark {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
